@@ -1,6 +1,4 @@
 ```text
-                                                     $ neofetch
-
                                                      Miten Parvatia
                                                      ─────────────────────────────
 
