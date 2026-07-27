@@ -1,4 +1,28 @@
-## Hi there 👋 , I'm Miten.
+```text
+                    █████████████████                 miten@github
+               █████████████████████████              ─────────────────────────────
+            █████████████         ████████
+         ██████████                   █████          Role       : Software Engineer
+       ████████             █           ████         Location   : Mumbai, India
+      ███████               ██████      █████        Education  : B.Tech Cyber Security
+     ██████        ██████  ██████        ████
+    ██████         █████   █████         ████        Languages  : Go, Python, Java, C++
+   ██████          █████  █████          ████                     TypeScript, JavaScript, SQL
+   ██████          ████  ████           ████
+   ██████          ████                 ████         Backend    : FastAPI, Node.js
+    ██████                             ████                       PostgreSQL, MongoDB
+    ███████                 ███      █████                        ClickHouse, Redis
+     ████████          ██████      █████
+       ████████████████████████████████              Frontend   : React, Next.js, D3.js
+        ████████████████████████████                              Tailwind CSS
+            █████████████████████
+                  ██████████                         Security   : ICS/OT, PCAP, EVTX
+                                                                  Sigma, YARA, Suricata
 
-I'm a backend and security engineer interested in SIEM, threat detection, digital forensics, observability, distributed systems, and ICS/OT security.
+                                                     Current    : CoE-CNDS, VJTI
+                                                                  HackTheFort
 
+                                                     Building   : Cyber ranges
+                                                                  Telemetry platforms
+                                                                  Security analysis systems
+```
