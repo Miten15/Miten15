@@ -1,28 +1,33 @@
 ```text
-                    █████████████████                 miten@github
-               █████████████████████████              ─────────────────────────────
-            █████████████         ████████
-         ██████████                   █████          Role       : Software Engineer
-       ████████             █           ████         Location   : Mumbai, India
-      ███████               ██████      █████        Education  : B.Tech Cyber Security
-     ██████        ██████  ██████        ████
-    ██████         █████   █████         ████        Languages  : Go, Python, Java, C++
-   ██████          █████  █████          ████                     TypeScript, JavaScript, SQL
-   ██████          ████  ████           ████
-   ██████          ████                 ████         Backend    : FastAPI, Node.js
-    ██████                             ████                       PostgreSQL, MongoDB
-    ███████                 ███      █████                        ClickHouse, Redis
-     ████████          ██████      █████
-       ████████████████████████████████              Frontend   : React, Next.js, D3.js
-        ████████████████████████████                              Tailwind CSS
-            █████████████████████
-                  ██████████                         Security   : ICS/OT, PCAP, EVTX
-                                                                  Sigma, YARA, Suricata
+                                                     $ neofetch
 
-                                                     Current    : CoE-CNDS, VJTI
-                                                                  HackTheFort
+                                                     Miten Parvatia
+                                                     ─────────────────────────────
 
-                                                     Building   : Cyber ranges
-                                                                  Telemetry platforms
-                                                                  Security analysis systems
+                                                     Role       : Backend & Security Engineer
+                                                     Education  : B.Tech Cyber Security
+                                                     Focus      : SIEM • Threat Detection
+                                                                   Distributed Systems
+                    █████████████████                              ICS/OT Security
+               █████████████████████████
+            █████████████         ████████          Languages  : Go • Python • TypeScript
+         ██████████                   █████                       Java • C++ • SQL
+       ████████             █           ████
+      ███████               ██████      █████        Backend    : FastAPI • Node.js
+     ██████        ██████  ██████        ████                     PostgreSQL • MongoDB
+    ██████         █████   █████         ████                     ClickHouse • Redis
+   ██████          █████  █████          ████
+   ██████          ████  ████           ████         Frontend   : React • Next.js • D3.js
+   ██████          ████                 ████                      Tailwind CSS
+    ██████                             ████
+    ███████                 ███      █████          Security   : Sigma • Suricata
+     ████████          ██████      █████                         YARA • PCAP • EVTX
+       ████████████████████████████████
+        ████████████████████████████               Current    : CoE-CNDS, VJTI
+            █████████████████████                               HackTheFort
+                  ██████████
+                                                     Building   : Cyber Ranges
+                                                                  OT Telemetry
+                                                                  Detection Engineering
+                                                                  Security Platforms
 ```
